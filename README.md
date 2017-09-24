@@ -1,2 +1,2 @@
 # Solidity-Files
-Solidity Programs that demonstrate the basics of implementing a smart contract and token
+Solidity Programs that demonstrate the basics of implementing smart contracts and tokens.
